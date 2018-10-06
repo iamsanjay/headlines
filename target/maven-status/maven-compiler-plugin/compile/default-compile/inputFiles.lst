@@ -1,3 +1,9 @@
+/Users/sanjaydutt/Documents/workspace/Headlines/src/main/java/com/timesinternet/security/WebSecurityConfig.java
+/Users/sanjaydutt/Documents/workspace/Headlines/src/main/java/com/timesinternet/model/response/Headlines.java
+/Users/sanjaydutt/Documents/workspace/Headlines/src/main/java/com/timesinternet/model/request/NewsRequest.java
 /Users/sanjaydutt/Documents/workspace/Headlines/src/main/java/com/timesinternet/controller/Application.java
 /Users/sanjaydutt/Documents/workspace/Headlines/src/main/java/com/timesinternet/controller/NewsController.java
+/Users/sanjaydutt/Documents/workspace/Headlines/src/main/java/com/timesinternet/model/response/Source.java
+/Users/sanjaydutt/Documents/workspace/Headlines/src/main/java/com/timesinternet/model/response/Articles.java
+/Users/sanjaydutt/Documents/workspace/Headlines/src/main/java/com/timesinternet/security/AuthenticationEntryPoint.java
 /Users/sanjaydutt/Documents/workspace/Headlines/src/main/java/com/timesinternet/service/NewsService.java

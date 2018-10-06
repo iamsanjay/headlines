@@ -12,6 +12,7 @@ import com.timesinternet.service.NewsService;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 public class NewsServiceTest {
+	
 
 	@InjectMocks
 	private NewsService service;

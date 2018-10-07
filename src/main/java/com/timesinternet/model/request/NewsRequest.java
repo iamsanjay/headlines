@@ -1,12 +1,16 @@
 package com.timesinternet.model.request;
-
+/**
+ * 
+ * @author sanjaydutt
+ *
+ */
 public class NewsRequest {
 	private String query;
 	private String country;
 	private String category;
 	private String sources;
-	private int pageSize;
-	private int page;
+	private int pageSize = 20;
+	private int page = 1;
 	public String getCountry() {
 		return country;
 	}
@@ -83,7 +87,8 @@ public class NewsRequest {
 			str.append("&category="+getCategory());
 		if(sources != null && !"".equals(sources))
 			str.append("&sources="+getSources());
-		
+		str.append("&pageSize="+getPageSize());
+		str.append("&page="+getPage());
 		return str.toString();
 	}
 
